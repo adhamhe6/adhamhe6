@@ -1,18 +1,44 @@
-<h1 >Hi 👋, I'm Adham</h1>
-<h3 >I am Jr Full-Stack Engineer</h3>
+## Hey, I'm Adham 👋
 
-- 🌱 I’m currently learning more about **Containerization & Docker**
+**Backend & AI engineer** in Cairo. I build the APIs, data pipelines and services that keep real operations running, from factory floors to retail checkouts, and then add a layer of AI on top.
 
-- 💬 Ask me about **Python, Django and any related stuff**
+```python
+class Adham:
+    role       = "Backend & AI Engineer"
+    location   = "Cairo, EG  (open to remote / GCC)"
+    stack      = ["Python", "FastAPI", "Django", "PostgreSQL", "Redis", "Docker", "AWS"]
+    ai         = ["LLMs", "RAG", "semantic search", "forecasting"]
+    currently  = "turning ~200k RFID events/day into live stock data"
+    philosophy = "measure first, optimise second, ship boring releases"
 
-- 📫 How to reach me **adhamhewala6@gmail.com**
+    def ping(self):
+        return "adhamdev9@gmail.com"
+```
 
-- ⚡ Fun fact **I love to play games and benefit others**
+### ⚙️ Toolbox
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adhamhe6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2dham-mohamed" height="30" width="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🧭 Lately
+
+- 🏭 Building RFID-driven ERP backends for garment & textile manufacturers
+- 🧠 Wiring LLMs and RAG into real business data, not just demos
+- 🏆 Won the **Cairo AI Hackathon 2025** with my team's AI data-analysis platform, *Lotus*
+- 🏎️ Fun fact: missed first place at **AWS DeepRacer Egypt** by 1.138 seconds. Still thinking about it.
+
+### 📡 Find me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=githubpages&logoColor=2dd4bf)](https://adhamhe6.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/adhamhe6/)
+[![X](https://img.shields.io/badge/@adhamhe6-0d1117?style=flat-square&logo=x&logoColor=white)](https://x.com/adhamhe6)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:adhamdev9@gmail.com)
+
+<sub><code>while True: learn(); build(); ship()</code></sub>
