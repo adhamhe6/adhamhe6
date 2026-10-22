@@ -5,10 +5,9 @@
 ```python
 class Adham:
     role       = "Backend & AI Engineer"
-    location   = "Cairo, EG  (open to remote / GCC)"
-    stack      = ["Python", "FastAPI", "Django", "PostgreSQL", "Redis", "Docker", "AWS"]
+    location   = "Dubai, UAE"
+    stack      = ["Python", "FastAPI", "Django", "MERN", "PostgreSQL", "Redis", "Docker", "AWS"]
     ai         = ["LLMs", "RAG", "semantic search", "forecasting"]
-    currently  = "turning ~200k RFID events/day into live stock data"
     philosophy = "measure first, optimise second, ship boring releases"
 
     def ping(self):
@@ -37,7 +36,7 @@ class Adham:
 ### 📡 Find me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=githubpages&logoColor=2dd4bf)](https://adhamhe6.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/adhamhe6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhamhe6/)
 [![X](https://img.shields.io/badge/@adhamhe6-0d1117?style=flat-square&logo=x&logoColor=white)](https://x.com/adhamhe6)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:adhamdev9@gmail.com)
 
