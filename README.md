@@ -1,13 +1,13 @@
 ## Hey, I'm Adham 👋
 
-**Backend & AI engineer** in Cairo. I build the APIs, data pipelines and services that keep real operations running, from factory floors to retail checkouts, and then add a layer of AI on top.
+**Backend & AI engineer** in Dubai. I build reliable backend systems, scalable APIs, and AI-powered applications that turn complex problems into practical solutions. I enjoy working across the stack, from database design and system architecture to intelligent features that make software more useful.
 
 ```python
 class Adham:
     role       = "Backend & AI Engineer"
     location   = "Dubai, UAE"
     stack      = ["Python", "FastAPI", "Django", "MERN", "PostgreSQL", "Redis", "Docker", "AWS"]
-    ai         = ["LLMs", "RAG", "semantic search", "forecasting"]
+    ai         = ["LLMs", "RAG", "vector databases", "ML"]
     philosophy = "measure first, optimise second, ship boring releases"
 
     def ping(self):
@@ -36,7 +36,7 @@ class Adham:
 ### 📡 Find me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=githubpages&logoColor=2dd4bf)](https://adhamhe6.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhamhe6/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/adhamhe6/)
 [![X](https://img.shields.io/badge/@adhamhe6-0d1117?style=flat-square&logo=x&logoColor=white)](https://x.com/adhamhe6)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:adhamdev9@gmail.com)
 
