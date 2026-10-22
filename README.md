@@ -37,7 +37,7 @@ class Adham:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=2dd4bf)](https://adhamhe6.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhamhe6/)
-[![X](https://img.shields.io/badge/twitter?style=flat-square&logo=x&logoColor=white)](https://x.com/adhamhe6)
+[![X](https://img.shields.io/badge/twitter-0d1117?style=flat-square&logo=x&logoColor=white)](https://x.com/adhamhe6)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:adhamdev9@gmail.com)
 
 <sub><code>while True: learn(); build(); ship()</code></sub>
